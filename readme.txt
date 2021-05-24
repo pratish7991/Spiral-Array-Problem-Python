@@ -1,0 +1,1 @@
+This code is based on logic of rotating object, every time array is made to rotate CCW to add its element in a list sequence wise 
