@@ -50,5 +50,5 @@ k=spiral(A)
 o=spiral(C)
 print(k)
 print(f)
-print(D)
+print(o)
 
